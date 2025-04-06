@@ -104,6 +104,6 @@ Finally, we will test our hypothesis by comparing the funding journeys of startu
 
 https://github.com/user-attachments/assets/b1a7d3ea-d50c-4fa9-80af-f950347c0a59
 
-[Analyzing-Global-Startup-Funding Presentation]("Data Visualisation, Group Project (1).pptx")
+[Analyzing-Global-Startup-Funding Presentation]("Group 13_presentation.pdf")
 
 
